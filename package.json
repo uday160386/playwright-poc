@@ -1,0 +1,29 @@
+{
+  "name": "playwright-poc",
+  "version": "1.0.0",
+  "description": "I would like to play and check the features of the tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uday160386/playwright-poc.git"
+  },
+  "keywords": [
+    "nodejs",
+    "poc",
+    "playwright",
+    "test"
+  ],
+  "author": "uday160386",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uday160386/playwright-poc/issues"
+  },
+  "homepage": "https://github.com/uday160386/playwright-poc#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "playwright": "^0.11.0"
+  }
+}

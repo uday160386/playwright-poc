@@ -2,11 +2,11 @@ Description:
 
 This project is created to test the features of playwright. I have used some features related to 
 
-   Page navigation
-   Opening links
-   Scrolling screens
-   Image capture
-   Integration to Jest
+      Page navigation
+      Opening links
+      Scrolling screens
+      Image capture
+      Integration to Jest
 
 
 Prerequisite:
